@@ -82,6 +82,3 @@ This portfolio is built using:
 - JavaScript
 - ExpressJS (for back-end projects)
 
-## License
-
-This project is licensed under the MIT License.
